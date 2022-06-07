@@ -45,3 +45,7 @@ This application is released under the [MIT license](LICENSE.md). You can use th
 
 [![license](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
+Donation
+
+BTC bc1qqh20x5v3wpp8gkz6rwmtuylh8kygp454277dfr
+ETH 0x2Ffd3d3b361a3Dd561005Dae2DD2e3010eECb2AB
